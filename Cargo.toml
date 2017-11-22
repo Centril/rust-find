@@ -12,8 +12,6 @@ repository    = "https://github.com/Centril/find"
 documentation = "https://docs.rs/find/"
 readme        = "README.md"
 
-[lib]
-
 [dependencies]
 
 [dev-dependencies]
